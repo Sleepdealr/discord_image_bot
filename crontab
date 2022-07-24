@@ -1,1 +1,1 @@
-*/10 * * * * /path/to/start.sh
+0 * * * * /path/to/start.sh

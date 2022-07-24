@@ -2,4 +2,4 @@
 
 cd PATHTOBOT_FILLTHISOUT
 . ./bin/activate
-python bot.py
+python3 bot.py
