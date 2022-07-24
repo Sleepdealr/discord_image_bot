@@ -1,0 +1,8 @@
+{
+    "logpath": "yc.log",
+    "blacklist": "posted_images.csv",
+    "base_tags": ["yaoi", "-muscle", "-comic", "-text"],
+    "search_tags": ["looking_at_another", "kiss", "2boys", "promare", "evangelion"],
+    "discordapi":"XXXXXXXXXX",
+    "channelid":9999999
+}

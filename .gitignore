@@ -1,0 +1,14 @@
+pics/*[.png,.jpg,.jpeg]
+.vscode/
+__pycache__/
+api.py
+.ipynb_checkpoints/
+posted_images.csv
+*.png
+*.jpg
+*.log
+config.json
+bin
+lib
+pyvenv.cfg
+lib64
